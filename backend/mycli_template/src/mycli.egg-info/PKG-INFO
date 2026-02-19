@@ -1,0 +1,5 @@
+Metadata-Version: 2.4
+Name: mycli
+Version: 0.1.0
+Summary: A sample CLI tool template
+Requires-Dist: click>=8.1.0

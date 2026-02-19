@@ -1,0 +1,10 @@
+[project]
+name = "mycli"
+version = "0.1.0"
+description = "A sample CLI tool template"
+dependencies = [
+    "click>=8.1.0"
+]
+
+[project.scripts]
+mycli = "mycli.cli:main"

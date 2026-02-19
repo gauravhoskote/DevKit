@@ -1,0 +1,13 @@
+pyproject.toml
+src/mycli/__init__.py
+src/mycli/__main__.py
+src/mycli/cli.py
+src/mycli.egg-info/PKG-INFO
+src/mycli.egg-info/SOURCES.txt
+src/mycli.egg-info/dependency_links.txt
+src/mycli.egg-info/entry_points.txt
+src/mycli.egg-info/requires.txt
+src/mycli.egg-info/top_level.txt
+src/mycli/commands/__init__.py
+src/mycli/commands/process.py
+src/mycli/commands/status.py
